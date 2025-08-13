@@ -9,7 +9,7 @@ LICENSE: Terms of use and data sharing policy
 
 **Citation**
 If you use this data in your work, please cite it as follows:
-Abboud, A., Chalak, A. Radwan, M. (2025). Tobacco Survey in Lebanon: Data Report and Raw Dataset. GitHub Repository: 
+Abboud, A., Chalak, A. Radwan, M. (2025). Tobacco Survey in Lebanon: Data Report and Raw Dataset. GitHub Repository: https://github.com/aliabb87/Tobacco-Use-Survey-Lebanon-2024
 
 **License**
 The dataset is shared under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. You are free to use, share, and adapt the data, provided appropriate credit is given.
