@@ -2,10 +2,15 @@
 This repository contains the data report, survey questionaire and raw de-identified dataset for a nationally representative tobacco survey conduction in Lebanon in 2024.
 
 **Contents**
-data-report.pdf: A concise summary of the survey methodology, sampling strategy, key findings, and limitations.
+
+data-report.pdf: A concise summary of the survey methodology, sampling strategy, key findings, and limitations
+
 survey-questionaire-arabic.pdf: Survey questionaire in Arabic
+
 survey-questionaire-english.pdf: Survey questionaire in English
+
 data.dta: De-identified raw data
+
 LICENSE: Terms of use and data sharing policy
 
 **Citation**
@@ -20,5 +25,4 @@ This study was funded by grant from Economics for Health (formerly Tobacconomics
 
 **Contact**
 For questions or collaboration inquiries, please contact:
-Ali Abboud aa184@aub.edu.lb
-Ali Chalak ac22@aub.edu.lb
+Ali Abboud aa184@aub.edu.lb or Ali Chalak ac22@aub.edu.lb
