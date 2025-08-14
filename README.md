@@ -3,7 +3,8 @@ This repository contains the data report, survey questionaire and raw de-identif
 
 **Contents**
 data-report.pdf: A concise summary of the survey methodology, sampling strategy, key findings, and limitations.
-survey-questionaire.pdf: Survey questionaire
+survey-questionaire-arabic.pdf: Survey questionaire in Arabic
+survey-questionaire-english.pdf: Survey questionaire in English
 data.dta: De-identified raw data
 LICENSE: Terms of use and data sharing policy
 
